@@ -1,4 +1,4 @@
-# YouTube Channel Video Transcriber
+#YouTube Channel Video Transcriber
 
 This Python script checks a specified YouTube channel for new videos uploaded after a given date and automatically generates a text transcription for each new video found using Google's Generative AI (Gemini via Vertex AI).
 
